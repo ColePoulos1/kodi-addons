@@ -1,0 +1,3 @@
+[submodule "upstream/FenLightPlus"]
+	path = upstream/FenLightPlus
+	url = https://github.com/thejason40/FenLightPlus.git
